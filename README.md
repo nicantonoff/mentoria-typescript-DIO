@@ -1,3 +1,6 @@
+Minhas respostas para os desafios 1, 2 e 3 estão em "src/desafios" em arquivos .ts
+Desafio 4 ainda em desenvolvimento.
+
 # Aula de Typescript da Take na plataforma DIO
   
 *Bem vindo!!*
